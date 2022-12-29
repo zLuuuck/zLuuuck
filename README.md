@@ -1,14 +1,10 @@
-### Olá, Meu nome é Lucas, mas pode me chamar de Luck! 👋
-
-sei la oq eu faço da minha vida
-
- ##
+### sei la oq eu faço da minha vida
 
 <div align="center">
 <div align="center">
   <a href="https://github.com/zLuuuck">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=zLuuuck&theme=dark&show_icons=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zLuuuck&layout=compact&langs_count=7&theme=dark"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=zLuuuck&theme=dark&show_icons=true"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zLuuuck&layout=compact&langs_count=7&theme=dark"/>
 </div>
 </div>
   
