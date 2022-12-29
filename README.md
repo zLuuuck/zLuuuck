@@ -1,16 +1,14 @@
 ### Olá, Meu nome é Lucas, mas pode me chamar de Luck! 👋
 
-- 🚩Estudo Focado em Python
-- 🚩Localização: BR-PR
-- 🚩Foco em Cybersegurança e Full-Stack
+sei la oq eu faço da minha vida
 
  ##
 
 <div align="center">
 <div align="center">
   <a href="https://github.com/zLuuuck">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zLuuuck&theme=dark&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zLuuuck&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=zLuuuck&theme=dark&show_icons=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zLuuuck&layout=compact&langs_count=7&theme=dark"/>
 </div>
 </div>
   
