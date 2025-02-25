@@ -1,4 +1,6 @@
-### Olá! Sou Lucas Toterol!
+<h1 align=center><strong>Olá! Eu sou Lucas Toterol!</strong></h1>
+
+#
 
 <div align="center">
   <img src="https://github.com/zLuuuck/zLuuuck/blob/main/gifs/violet_salute.gif">
