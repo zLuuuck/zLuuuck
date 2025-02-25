@@ -1,4 +1,4 @@
-### sei la oq eu faço da minha vida
+###Olá! Sou Lucas Toterol!
 
 <div align="center">
   <img src="https://github.com/zLuuuck/zLuuuck/blob/main/gifs/violet_salute.gif">
