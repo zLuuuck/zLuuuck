@@ -47,7 +47,7 @@
 ### 📊 &nbsp;GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zLuuuck&show_icons=true&theme=dark&locale=pt-br&include_all_commits=true&count_private=true&hide_border=false"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=zLuuuck&show_icons=true&theme=dark&locale=pt-br&include_all_commits=true&count_private=true&hide_border=false" size="50%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zLuuuck&layout=compact&langs_count=6&theme=dark&hide_border=false" />
 </div>
 
