@@ -1,4 +1,4 @@
-**<div align="center">
+<div align="center">
   <img height="300" src="https://i.imgur.com/U1RXwlj.gif" />
 </div>
 
@@ -11,30 +11,43 @@
 ## 🛠️ &nbsp;Tech Stack
 
 <div align="center">
-  <!-- Ícones originais (mantidos) -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" style="margin: 0 6px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" style="margin: 0 6px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" style="margin: 0 6px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="Windows" style="margin: 0 6px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="Debian" style="margin: 0 6px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" style="margin: 0 6px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" style="margin: 0 6px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" style="margin: 0 6px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django" style="margin: 0 6px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" style="margin: 0 6px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" style="margin: 0 6px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" style="margin: 0 6px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" style="margin: 0 6px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" style="margin: 0 6px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" style="margin: 0 6px;" />
-
-  <!-- Novos ícones adicionados (mesmo estilo) -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" height="40" alt="Neovim" style="margin: 0 6px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash" style="margin: 0 6px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" style="margin: 0 6px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="Flask" style="margin: 0 6px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="Nginx" style="margin: 0 6px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="Markdown" style="margin: 0 6px;" />
+  <img src="https://skillicons.dev/icons?i=linux" height="45" alt="linux logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="45" alt="vscode logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=neovim" height="45" alt="neovim logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=docker" height="45" alt="docker logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=git" height="45" alt="git logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=github" height="45" alt="github logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=notion" height="45" alt="notion logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=powershell" height="45" alt="powershell logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=bash" height="45" alt="bash logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=c" height="45" alt="c logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=py" height="45" alt="python logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=react" height="45" alt="react logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=html" height="45" alt="html5 logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=css" height="45" alt="css logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=flask" height="45" alt="flask logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=nginx" height="45" alt="nginx logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=md" height="45" alt="markdown logo"  />
 </div>
 
 ---
@@ -42,11 +55,9 @@
 ## 📊 &nbsp;GitHub Stats
 
 <div align="center">
-  <!-- Stats e Top Langs originais (tamanhos mantidos) -->
   <img src="https://github-readme-stats.vercel.app/api?username=zLuuuck&show_icons=true&theme=dark&locale=pt-br&include_all_commits=true&count_private=true&hide_border=false" width="400" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zLuuuck&layout=compact&langs_count=6&theme=dark&hide_border=false" width="305" />
   
-  <!-- Novo: gráfico de sequência (streak) com mesmo tema e largura alinhada -->
   <br/>
   <img src="https://streak-stats.demolab.com?user=zLuuuck&theme=dark&hide_border=false&locale=pt-br" width="400" alt="GitHub Streak" />
 </div>
@@ -81,4 +92,3 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" alt="Instagram" />
   </a>
 </div>
-**
