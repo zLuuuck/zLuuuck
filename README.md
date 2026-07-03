@@ -64,14 +64,6 @@
 
 ---
 
-## 🎮 &nbsp;Contribution Graph
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/zLuuuck/zLuuuck/output/snake.svg" alt="Snake animation" />
-</div>
-
----
-
 ## 📫 &nbsp;Let's Connect
 
 <div align="center">
